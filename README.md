@@ -37,10 +37,12 @@ Este aplicativo Java é uma interface gráfica de usuário (GUI) que permite aos
   3.Atualize os detalhes da conexão com o banco de dados no código Java
 
 ## Exemplos de Capturas de Tela
-Tela de Registro
-![]
+### Tela de Registro
 
-Tela de Login
-![]
+![Tela de Registro](img/register.jpg)
+
+### Tela de Login
+
+![Tela de Login](img/login.jpg)
 
   
